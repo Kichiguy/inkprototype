@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inkle Prototype.Plugins", "Inkle Prototype.Plugins.csproj", "{C1963F7F-B45F-A5E8-8F64-98753AFE90D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inkle Prototype", "Inkle Prototype.csproj", "{7258637A-C80B-DE16-B9D2-172BD6A550F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inkle Prototype.Editor.Plugins", "Inkle Prototype.Editor.Plugins.csproj", "{23DFBEE5-F0F2-AB09-D912-E1DF69967F75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1963F7F-B45F-A5E8-8F64-98753AFE90D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1963F7F-B45F-A5E8-8F64-98753AFE90D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1963F7F-B45F-A5E8-8F64-98753AFE90D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1963F7F-B45F-A5E8-8F64-98753AFE90D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7258637A-C80B-DE16-B9D2-172BD6A550F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7258637A-C80B-DE16-B9D2-172BD6A550F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7258637A-C80B-DE16-B9D2-172BD6A550F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7258637A-C80B-DE16-B9D2-172BD6A550F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23DFBEE5-F0F2-AB09-D912-E1DF69967F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23DFBEE5-F0F2-AB09-D912-E1DF69967F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23DFBEE5-F0F2-AB09-D912-E1DF69967F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23DFBEE5-F0F2-AB09-D912-E1DF69967F75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
